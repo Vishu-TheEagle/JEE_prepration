@@ -1,0 +1,8 @@
+{
+  "name": "JEE Genius AI",
+  "description": "An AI-powered web application for JEE Main & Advanced preparation, featuring a doubt solver, test generator, and personalized learning plans. The app starts with a blank slate, requiring user engagement to populate data.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
